@@ -1,10 +1,9 @@
 # Vargant
-```
-This Project helps you to understand how to use Virtual Machines and Vagrant on your personal computers. It helps to run different programs with different versions. 
-```
-```
-Virtual machine is the emulation/virtualization of a computer system they are based on computer architectures and they provide functionality of a physical computer.
-```
+
+### This Project helps you to understand how to use Virtual Machines and Vagrant on your personal computers. It helps to run different programs with different versions. 
+
+### Virtual machine is the emulation/virtualization of a computer system they are based on computer architectures and they provide functionality of a physical computer.
+
  * VirtualBox is a virtual machine provider that is used by themselves, it is free and lightweight
  * Vagrants like VirtualBox is free, reliable and well maintained. It is a tool that sits on a Virtual machine provider.
 
